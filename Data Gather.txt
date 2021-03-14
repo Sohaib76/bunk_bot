@@ -1,0 +1,10 @@
+Duration of class (Minutes)
+
+After what time (Minutes) , attendance starts
+
+Teacher what call u for attendance (Test it on google speech to text also)
+
+
+Innovations:
+Recognize chat , as if everyone writing their roll numbers, and write it
+Answer teacher roll call by playing mp3 file (Present)
